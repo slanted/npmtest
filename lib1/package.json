@@ -1,0 +1,15 @@
+{
+  "name": "@emoore/testlib1",
+  "version": "1.3.0-SNAPSHOT.1563899157807",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eric Moore <emoore@nuskin.com>",
+  "license": "ISC",
+  "dependencies": {
+    "feature-toggles": "^1.4.0"
+  }
+}
